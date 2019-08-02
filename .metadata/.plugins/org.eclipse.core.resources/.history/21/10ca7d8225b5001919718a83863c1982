@@ -1,0 +1,7 @@
+package org.designPattern.pizzaCompany.pizza;
+
+import org.designPattern.pizzaCompany.pizza.item.Item;
+
+public abstract class Pizza implements Item {
+
+}

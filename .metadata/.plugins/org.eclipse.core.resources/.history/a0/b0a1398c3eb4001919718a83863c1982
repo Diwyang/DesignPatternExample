@@ -1,0 +1,16 @@
+package com.dj.designPattern.singleton.example1;
+
+class Singleton{
+	
+	public static ins = new Singleton();
+	
+	private Singleton() {}
+}
+public class SingletonDesignPatternExample1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

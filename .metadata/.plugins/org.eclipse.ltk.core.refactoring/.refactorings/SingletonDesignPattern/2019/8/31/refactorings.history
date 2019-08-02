@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.dj.designPattern.singleton.example1.egar.java&apos; to &apos;EagerInitializedSingleton.java&apos;&#x0D;&#x0A;- Original project: &apos;SingletonDesignPattern&apos;&#x0D;&#x0A;- Original element: &apos;com.dj.designPattern.singleton.example1.egar.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.dj.designPattern.singleton.example1.EagerInitializedSingleton.java&apos;" description="Rename compilation unit &apos;egar.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.dj.designPattern.singleton.example1{egar.java" name="EagerInitializedSingleton.java" references="false" stamp="1564726381677" version="1.0"/>
+</session>

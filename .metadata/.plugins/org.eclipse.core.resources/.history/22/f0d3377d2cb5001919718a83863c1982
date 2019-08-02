@@ -1,0 +1,5 @@
+package org.designPattern.example.computer;
+
+public class Computer {
+
+}

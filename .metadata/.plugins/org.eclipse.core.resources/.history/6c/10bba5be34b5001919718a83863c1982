@@ -1,0 +1,5 @@
+package org.designPattern.example.voltAdapter;
+
+public class Volt {
+
+}

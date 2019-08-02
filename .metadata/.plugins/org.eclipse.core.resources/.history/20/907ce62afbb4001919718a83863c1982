@@ -1,0 +1,7 @@
+package org.designPattern.example.employee;
+
+import org.designPattern.example.prototype.Prototype;
+
+public class EmployeeRecord implements Prototype {
+
+}

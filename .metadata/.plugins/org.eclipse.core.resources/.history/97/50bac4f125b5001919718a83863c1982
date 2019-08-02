@@ -1,0 +1,8 @@
+package org.designPattern.pizzaCompany.coldDrink;
+
+public abstract class ColdDrink {
+
+	@Override  
+	 public abstract float price();
+	 
+}

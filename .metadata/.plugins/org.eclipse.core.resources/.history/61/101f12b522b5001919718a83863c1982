@@ -1,0 +1,5 @@
+package org.designPattern.example.company;
+
+public class Sony extends Company {
+
+}

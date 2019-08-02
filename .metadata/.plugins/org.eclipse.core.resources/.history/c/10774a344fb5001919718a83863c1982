@@ -1,0 +1,5 @@
+package org.designPattern.journaldev.example.composite;
+
+public class Drawing {
+
+}

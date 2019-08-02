@@ -1,0 +1,5 @@
+package org.designPattern.example.shapeAndColor;
+
+public class Pentagon {
+
+}

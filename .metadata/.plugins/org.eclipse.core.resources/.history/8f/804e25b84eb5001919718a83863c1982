@@ -1,0 +1,5 @@
+package org.designPattern.journaldev.example.leaf;
+
+public class Circle {
+
+}

@@ -1,0 +1,23 @@
+package org.designPattern.pizzaCompany.pizza;
+
+public class SmallCheezePizza extends VegPizza {
+
+	@Override
+	public float price() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public String name() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String size() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

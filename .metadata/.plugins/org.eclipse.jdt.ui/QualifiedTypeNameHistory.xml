@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.dj.designPattern.singleton.example1.Singleton"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Constructor"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="com.dj.designPattern.singleton.example3.Singleton"/>
+<fullyQualifiedTypeName name="java.lang.Cloneable"/>
+<fullyQualifiedTypeName name="java.lang.CloneNotSupportedException"/>
+<fullyQualifiedTypeName name="com.dj.designPattern.singleton.example5.Singleton"/>
+<fullyQualifiedTypeName name="java.util.concurrent.ExecutorService"/>
+<fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
+<fullyQualifiedTypeName name="org.designPattern.plan.Plan"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="org.designPattern.pizzaCompany.item.Item"/>
+<fullyQualifiedTypeName name="java.awt.Color"/>
+<fullyQualifiedTypeName name="org.designPattern.example.shapeAndColor.color.Color"/>
+<fullyQualifiedTypeName name="org.designPattern.example.shapeAndColor.shape.Shape"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="org.designPattern.journaldev.example.shape.Shape"/>
+</qualifiedTypeNameHistroy>

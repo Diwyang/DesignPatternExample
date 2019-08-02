@@ -1,0 +1,5 @@
+package org.designPattern.javatpoint.example.food.concrete;
+
+public class ChineeseFood {
+
+}

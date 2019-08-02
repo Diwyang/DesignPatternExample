@@ -1,0 +1,7 @@
+package org.designPattern.example.company;
+
+import org.designPattern.example.packing.CD;
+
+public class Company extends CD {
+
+}

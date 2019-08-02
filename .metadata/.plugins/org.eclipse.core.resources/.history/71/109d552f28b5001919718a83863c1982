@@ -1,0 +1,23 @@
+package org.designPattern.pizzaCompany.coldDrink;
+
+public class SmallPepsi extends Pepsi {
+
+	@Override
+	public String name() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String size() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public float price() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

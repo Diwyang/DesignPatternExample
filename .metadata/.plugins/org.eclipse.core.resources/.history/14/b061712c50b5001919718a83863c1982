@@ -1,0 +1,9 @@
+package org.designPattern.example.bank.creditCard;
+
+public interface CreditCard {
+
+	public void giveBankDetails();
+
+	public String getCreditCard();
+
+}

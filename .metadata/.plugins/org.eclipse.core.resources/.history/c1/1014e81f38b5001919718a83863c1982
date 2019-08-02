@@ -1,0 +1,5 @@
+package org.designPattern.example.question;
+
+public class QuestionFormat extends QuestionManager {
+
+}

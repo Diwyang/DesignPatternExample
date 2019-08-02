@@ -1,0 +1,5 @@
+package org.designPattern.example.bankEx.employee;
+
+public class Employee {
+
+}

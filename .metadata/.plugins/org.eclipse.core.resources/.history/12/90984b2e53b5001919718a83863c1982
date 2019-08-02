@@ -1,0 +1,5 @@
+package org.designPattern.journaldev.example.cars.componentImpl;
+
+public class BasicCar {
+
+}
