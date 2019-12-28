@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
-<typeInfo handle="=FactoryMethodPattern/src&lt;org.designPattern.computer.example.computer{Computer.java[Computer" modifiers="1025" timestamp="1564729012660"/>
-<typeInfo handle="=PrototypeDesignPattern/src&lt;org.designPattern.example.prototype{Prototype.java[Prototype" modifiers="513" timestamp="1564732535254"/>
-<typeInfo handle="=BuilderDesignPattern/src&lt;org.designPattern.example.packing{CD.java[CD" modifiers="1025" timestamp="1564749487269"/>
-<typeInfo handle="=BuilderDesignPattern/src&lt;org.designPattern.example.company{Company.java[Company" modifiers="1025" timestamp="1564749570016"/>
-<typeInfo handle="=BuilderDesignPattern/src&lt;org.designPattern.pizzaCompany.pizza{Pizza.java[Pizza" modifiers="1025" timestamp="1564750931336"/>
-<typeInfo handle="=BuilderDesignPattern/src&lt;org.designPattern.pizzaCompany.coldDrink{ColdDrink.java[ColdDrink" modifiers="1025" timestamp="1564751018634"/>
+<typeInfo handle="=FactoryMethodPattern/src&lt;org.designPattern.computer.example.computer{Computer.java[Computer" modifiers="1025" timestamp="1564775222982"/>
+<typeInfo handle="=PrototypeDesignPattern/src&lt;org.designPattern.example.prototype{Prototype.java[Prototype" modifiers="513" timestamp="1564775223247"/>
+<typeInfo handle="=BuilderDesignPattern/src&lt;org.designPattern.example.packing{CD.java[CD" modifiers="1025" timestamp="1564775220920"/>
+<typeInfo handle="=BuilderDesignPattern/src&lt;org.designPattern.example.company{Company.java[Company" modifiers="1025" timestamp="1564775220874"/>
+<typeInfo handle="=BuilderDesignPattern/src&lt;org.designPattern.pizzaCompany.pizza{Pizza.java[Pizza" modifiers="1025" timestamp="1564775221123"/>
+<typeInfo handle="=BuilderDesignPattern/src&lt;org.designPattern.pizzaCompany.coldDrink{ColdDrink.java[ColdDrink" modifiers="1025" timestamp="1564775220994"/>
 </typeInfoHistroy>

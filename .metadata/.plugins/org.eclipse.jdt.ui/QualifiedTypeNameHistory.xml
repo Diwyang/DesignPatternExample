@@ -18,6 +18,8 @@
 <fullyQualifiedTypeName name="org.designPattern.example.shapeAndColor.color.Color"/>
 <fullyQualifiedTypeName name="org.designPattern.example.shapeAndColor.shape.Shape"/>
 <fullyQualifiedTypeName name="java.util.Iterator"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="org.designPattern.journaldev.example.shape.Shape"/>
+<fullyQualifiedTypeName name="java.net.URL"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="org.principles.ocp.example1.Product"/>
 </qualifiedTypeNameHistroy>
